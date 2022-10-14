@@ -63,9 +63,9 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/mytobot/Ganz-Botz-V8/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/mytobot/Ganz-Botz-V8/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/mytobot/Ganz-Botz-V8/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```

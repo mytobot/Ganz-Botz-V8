@@ -7,35 +7,35 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 </p>
 <h1 align="center">LEVI-GANZ-MD</h1>
 <p align="center">
-  <a href="https://github.com/WH-MODS-BOT"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=WH+MODS+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+WH+MODS+DEV;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/mytobot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=LEVI+GANZ+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+LEVI+GNTG+XAX;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="WH-MODS-BOT" src="https://img.shields.io/badge/-WH--MODS--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="LEVI-GANZ-BOT" src="https://img.shields.io/badge/-LEVI--GANZ--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/WH-MODS-BOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-WH--MODS--BOT-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mytobot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-LEVI--GANZ--BOT-green?style=for-the-badge&logo=github"></a>
     
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
-> Dan Subscribe [ Here ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
+> Dan Subscribe [ Here ](https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g) 
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6282131369002">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_ctzhid_">
+  <a href="https://instagram.com/imleviofc">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow">
+  <a href="https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g">
     <img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6282127487538"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HQMa4AGBFKRBi4z4R0MnH4) 
+## ```Whatsapp``` <a href="https://wa.me/6285172446692"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1) 
 ---------
 
 #### a little about this bot
@@ -83,8 +83,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/WH-MODS-BOT/fix-bot-v3
-$ cd fix-bot-v3
+$ git clone https://github.com/mytobot/Ganz-Botz-V8
+$ cd Ganz-Botz-V8
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -120,14 +120,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & WH-MODS-BOT-MD]
+[ INSTALLING NODEJS & LEVI-GANZ-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/WH-MODS-BOT/fix-bot-v3
-cd fix-bot-v3
+git clone https://github.com/mytobot/Ganz-Botz-V8
+cd Ganz-Botz-V8
 npm install
 npm update
 ```
@@ -142,8 +142,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/WH-MODS-BOT/fix-bot-v3
-cd fix-bot-v3
+git clone https://github.com/mytobot/Ganz-Botz-V8
+cd Ganz-Botz-V8
 npm install
 npm update
 ```
@@ -236,11 +236,11 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/WH-MODS-BOT)
-* [`My parents`](https://github.com/WH-MODS-BOT)
-* [`All Friends`](https://github.com/WH-MODS-BOT)
-* [`All Contributors`](https://github.com/WH-MODS-BOT)
-* [`All Creator Bot`](https://github.com/WH-MODS-BOT)
+* [`Allah SWT`](https://github.com/mytobot)
+* [`My parents`](https://github.com/mytobot)
+* [`All Friends`](https://github.com/mytobot)
+* [`All Contributors`](https://github.com/mytobot)
+* [`All Creator Bot`](https://github.com/mytobot)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
@@ -250,4 +250,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```Recode By ✏️```
-[![WH-MODS-BOT](https://github.com/WH-MODS-BOT.png?size=70)](https://github.com/WH-MODS-BOT)
+[![LEVI-GANZ-MD](https://github.com/mytobot.png?size=70)](https://github.com/mytobot)

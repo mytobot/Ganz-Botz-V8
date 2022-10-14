@@ -6,14 +6,8 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let str = `${global.wm}
 
 ┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
-❏────
-
-┌─「 Donasi • Non Pulsa 」
-│ • *Dana:* [${global.pdana}]
-│ • *Gopay:* [${global.pgopay}]
-│ • *Ovo:* [${global.povo}]
-│ • *Link Aja:* [${global.plinkaja}]
+│ • *Byu:* [${global.ppulsa}]
+│ • *Telkomsel:* 082131369002
 ❏────`
 let wibu = `https://i.ibb.co/P5BBzbf/286637238-392674839545088-948545114162206238-n.jpg` 
 let thumb = await(await fetch(wibu)).buffer()

@@ -49,7 +49,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/imleviofc' // ig
+global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=' // ig
 global.sgh = 'https://github.com/ImleviOfc' // github
 global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
@@ -69,8 +69,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6282131369002'
 global.nomorown = '6285172446692'
-global.namebot = 'levi-ganz-botz-MD'
-global.nameown = 'levi'
+global.namebot = 'LEVI-GANZ-BOT'
+global.nameown = 'levi-ganz'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,11 +85,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285172446692', 'levi', true],
-  ['6285172446692', 'levi', true],
-  ['6285172446692', 'levi', true],
-  ['6285172446692', 'levi', true],
-  ['6285172446692', 'levi', true]
+  ['6285172446692', 'levi-ganz', true],
+  ['6285172446692', 'levi-ganz', true],
+  ['6285172446692', 'levi-ganz', true],
+  ['6285172446692', 'levi-ganz', true],
+  ['6285172446692', 'levi-ganz', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 LEVI-GANZ-MD 」' //Main Watermark
+global.wm = '                「 LEVI-GANZ-BOT 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ LEVI-GANZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ LEVI-GANZ-MD '
+global.wm3 = '⫹⫺ LEVI-GANZ-BOT '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Levi`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Levi-ganz`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 LEVI-GANZ-MD あ 」'
+global.author = '                「 LEVI-GANZ-BOT あ 」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'LEVI-GANZ-MD'
-global.stickauth = `By ©levi`
+global.stickpack = 'LEVI-GANZ-BOT'
+global.stickauth = `By ©levi-ganz`
 
 global.multiplier = 38 // The higher, The harder levelup
 

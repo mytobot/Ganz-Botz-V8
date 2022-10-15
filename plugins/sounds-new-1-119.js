@@ -16,7 +16,7 @@ let stiker = await sticker(null, global.API(`https://telegra.ph/file/d34b2ab2cb2
           showAdAttribution: true,
     mediaUrl: sig,
     mediaType: 2,
-    description: 'WH MODS BOT MD 𝑿 WH MODS DEV', 
+    description: 'LEVI-GANZ-BOT Multi Device', 
     title: `${command} Sedang Di Proses`,
     body: botdate,
     thumbnail: await(await fetch(pp)).buffer(),
@@ -35,8 +35,8 @@ ptt: false, seconds: 0,contextInfo: {
     description: 'www.instagram.com/_ctzhid',
     title: "Now Playing...",
     body: wm,
-    thumbnail: await (await fetch('https://i.ibb.co/XZrK6yQ/transformers.jpg')).buffer(),
-    sourceUrl: 'www.instagram.com/_ctzhid'
+    thumbnail: await (await fetch('https://telegra.ph/file/4cec9590250759499b7f5.jpg')).buffer(),
+    sourceUrl: 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
  	  }
      }
     })

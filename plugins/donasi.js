@@ -7,15 +7,15 @@ let str = `${global.wm}
 
 ┌─「 Donasi • Pulsa 」
 │ • *Byu:* [${global.ppulsa}]
-│ • *Telkomsel:* 082131369002
+│ • *Telkomsel:* [082131369002]
 ❏────`
 let wibu = `https://i.ibb.co/P5BBzbf/286637238-392674839545088-948545114162206238-n.jpg` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+    mediaUrl: "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'WH-MODS-DEV-V1 MultiDevice',
+    title: 'LEVI-GANZ-BOT Multi Device',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
